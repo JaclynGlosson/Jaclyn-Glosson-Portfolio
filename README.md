@@ -6,7 +6,7 @@ The final recommended Decision Tree model, which corrected for class imbalance, 
 
 A comprehensive, business-oriented report is availible [here.](https://github.com/JaclynGlosson/Predicting_Online_Sales/blob/main/Decision%20Tree%20and%20Naive%20Bayes%20Project.pdf)
 
-[](https://github.com/JaclynGlosson/Jaclyn-Glosson-Portfolio/blob/main/Images/CorrelationPlot.png)
+![](https://github.com/JaclynGlosson/Jaclyn-Glosson-Portfolio/blob/main/Images/CorrelationPlot.png)
 [](https://github.com/JaclynGlosson/Jaclyn-Glosson-Portfolio/blob/main/Images/Rplot.png)
 
 # [Project 2: Chronic Kidney Disease Screener](https://github.com/JaclynGlosson/Predicting_CKD)
