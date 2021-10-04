@@ -7,7 +7,7 @@ The final recommended Decision Tree model, which corrected for class imbalance, 
 A comprehensive, business-oriented report is availible [here.](https://github.com/JaclynGlosson/Predicting_Online_Sales/blob/main/Decision%20Tree%20and%20Naive%20Bayes%20Project.pdf)
 
 ![](https://github.com/JaclynGlosson/Jaclyn-Glosson-Portfolio/blob/main/Images/CorrelationPlot.png)
-[](https://github.com/JaclynGlosson/Jaclyn-Glosson-Portfolio/blob/main/Images/Rplot.png)
+![](https://github.com/JaclynGlosson/Jaclyn-Glosson-Portfolio/blob/main/Images/Rplot.png)
 
 # [Project 2: Chronic Kidney Disease Screener](https://github.com/JaclynGlosson/Predicting_CKD)
 The objective of this case study was to create a screening tool which allows identification of those individuals who are at a higher risk of suffering from CKD. The data used in this analysis was gathered by the National Center for Health Statistics of the Centers for Disease Control and Prevention. The data contains information on 33 different variables from 8,819 adults and was collected between 1999 and 2002.
@@ -18,4 +18,4 @@ A screening tool was created using linear regression and the variables identifie
 
 A comprehensive report is availible [here.](https://github.com/JaclynGlosson/Predicting_CKD/blob/main/CKD%20Case%20Study.pdf)
 
-[](https://github.com/JaclynGlosson/Jaclyn-Glosson-Portfolio/blob/main/Images/CKD%20Prediction%20Graph.png)
+![](https://github.com/JaclynGlosson/Jaclyn-Glosson-Portfolio/blob/main/Images/CKD%20Prediction%20Graph.png)
