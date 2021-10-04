@@ -4,6 +4,6 @@ For my final project in STAT 642 (Data Mining), I used webtraffic data to predic
 
 The final recommended Decision Tree model, which corrected for class imbalance, correctly predicted who would purchase from the company at a rate of approximately 80%, as well as who would not purchase from the company at a rate of approximately 86%.
 
-A comprehensive, business-oriented report of this project is availible [here.](https://github.com/JaclynGlosson/Predicting_Online_Sales/blob/main/Decision%20Tree%20and%20Naive%20Bayes%20Project.pdf)
+A comprehensive, business-oriented report is availible [here.](https://github.com/JaclynGlosson/Predicting_Online_Sales/blob/main/Decision%20Tree%20and%20Naive%20Bayes%20Project.pdf)
 
 # Project 2: Chronic Kidney Disease Screener
