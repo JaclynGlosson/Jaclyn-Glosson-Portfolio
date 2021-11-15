@@ -1,3 +1,6 @@
+## Hello! If you are reading this message, you have an old version of my portfolio website. As of November 15, I have moved it! Please visit the following link:
+[https://jaclynglosson.github.io/WebsitePortfolio.github.io/](https://jaclynglosson.github.io/WebsitePortfolio.github.io/)
+
 
 # [Project 1: Predicting Sales Using Webtraffic](https://github.com/JaclynGlosson/Predicting_Online_Sales)
 For my final project in STAT 642 (Data Mining), I used webtraffic data to predict purchasing behavior for an online retailer. The data included redundant variables, irrelevant variables, correlated variables, as well as large amounts of variation and noise. Decision Tree and Naive Bayes methods were compared. 
